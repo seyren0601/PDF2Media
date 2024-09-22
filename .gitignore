@@ -1,0 +1,11 @@
+﻿*.pdf
+*.dll
+*.exe
+*.h
+Bolethanhca2022/
+CadenCV/
+model_train/
+pdf/
+poppler-24.07.0/
+staffs/
+dataset/labels_as_arrays.npy
