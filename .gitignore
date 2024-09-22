@@ -9,3 +9,5 @@ pdf/
 poppler-24.07.0/
 staffs/
 dataset/labels_as_arrays.npy
+dataset/notes_labels_as_arrays.npy
+dataset/notes_single_labels_as_arrays.npy
