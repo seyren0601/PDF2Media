@@ -11,3 +11,5 @@ staffs/
 dataset/labels_as_arrays.npy
 dataset/notes_labels_as_arrays.npy
 dataset/notes_single_labels_as_arrays.npy
+CNN_ONLY.keras
+x_train_image.jpg
