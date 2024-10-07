@@ -2,6 +2,7 @@
 *.dll
 *.exe
 *.h
+*.npy
 Bolethanhca2022/
 CadenCV/
 model_train/
@@ -13,3 +14,10 @@ dataset/notes_labels_as_arrays.npy
 dataset/notes_single_labels_as_arrays.npy
 CNN_ONLY.keras
 x_train_image.jpg
+box.jpg
+boxed.jpg
+template/key_signatures
+test_images/
+staffs/
+output.mid
+desktop.ini
